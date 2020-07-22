@@ -1,5 +1,5 @@
 # Deployment :
-Implemented many different types of deployment Machine Learning Regression sample project.
+Implemented many different types of deployment Machine Learning Classification sample project.
 
 ## Follow Me:
  
