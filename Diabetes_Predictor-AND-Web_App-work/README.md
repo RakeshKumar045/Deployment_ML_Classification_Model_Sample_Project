@@ -6,5 +6,7 @@ To predict whether a person is Diabetic or Non Diabetic Random Forest Classifier
 Flask Web Framework is used for deploying the Machine Learning Model.<br>
 The whole model is developed by using Python version 3.6.<br>
 The above model can be run on your local computer by downloading this whole file and running it in command prompt by following command: python app.py.
+
+
 ## WEB APP
-![](https://github.com/RakeshKumar045/Diabetes_Predictor-AND-Web_App/blob/master/Final_Video.gif)
+![](https://github.com/RakeshKumar045/Deployment_ML_Classification_Model_Sample_Project/blob/july_19/Diabetes_Predictor-AND-Web_App-work/Final_Video.gif)
